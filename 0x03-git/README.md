@@ -1,1 +1,2 @@
-This is the first directoryfor git in the zero alx project
+?y first readme
+this line was updated from git hub
